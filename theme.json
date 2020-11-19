@@ -5,11 +5,11 @@
     "tag" : "Cloud Web Services - RDS_MySQL_instance",
     "stroke" : "#3b48cc",
     "color" : "#3b48cc",
-    "icon" : "https://raw.githubusercontent.com/structurizr/themes/master/amazon-web-services/Amazon-RDS_MySQL_instance_light-bg@4x.png"
+    "icon" : "https://github.com/sava2502/ModelC4/blob/main/images/cloud/mysql-cloud.png"
   }, {
-    "tag" : "Cloud Web Services - FreeRTOS",
+    "tag" : "Cloud Web Services - database_cloud",
     "stroke" : "#3f8624",
     "color" : "#3f8624",
-    "icon" : "https://raw.githubusercontent.com/structurizr/themes/master/amazon-web-services/Amazon-FreeRTOS_light-bg@4x.png"
+    "icon" : "https://github.com/sava2502/ModelC4/blob/main/images/cloud/cloud-database0.png"
   } ]
 }
