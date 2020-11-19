@@ -1,0 +1,15 @@
+{
+  "name" : "Amazon Web Services",
+  "description" : "This theme includes element styles with icons for each services, based upon the Cloud Architecture Icons.",
+  "elements" : [ {
+    "tag" : "Cloud Web Services - RDS_MySQL_instance",
+    "stroke" : "#3b48cc",
+    "color" : "#3b48cc",
+    "icon" : "https://raw.githubusercontent.com/structurizr/themes/master/amazon-web-services/Amazon-RDS_MySQL_instance_light-bg@4x.png"
+  }, {
+    "tag" : "Cloud Web Services - FreeRTOS",
+    "stroke" : "#3f8624",
+    "color" : "#3f8624",
+    "icon" : "https://raw.githubusercontent.com/structurizr/themes/master/amazon-web-services/Amazon-FreeRTOS_light-bg@4x.png"
+  } ]
+}
